@@ -69,7 +69,7 @@ source that causes most of them. Same no-hosted-backend property: every
 registry call runs from your machine, nothing routes through me.
 
 It's free. No account, no tier, no cap beyond the registries' own public
-rate limits. Source is MIT: https://github.com/domward2/refexists
+rate limits. Source is MIT: https://github.com/DSL4-Digital/RefExists
 
 Honest limits: books, theses, non-English and very recent work are
 under-indexed across these registries, so an unmatched reference is reported

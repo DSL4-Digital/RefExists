@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 220" role="img" aria-labelledby="title">
+  <title id="title">DSL4 Digital</title>
+  <g transform="translate(18 50)">
+    <path d="M12 42 72 12l60 30-60 30L12 42Z" fill="#090C10"/>
+    <path d="m0 77 35-18 37 21 37-21 35 18-72 36L0 77Z" fill="#087BFA"/>
+    <path d="m0 112 35-18 37 21 37-21 35 18-72 32L0 112Z" fill="#090C10"/>
+  </g>
+  <path d="M190 38v144" stroke="#090C10" stroke-width="4"/>
+  <text x="230" y="118" fill="#090C10" font-family="Arial Black, Arial, sans-serif" font-size="96" font-weight="900" letter-spacing="-8">DSL</text>
+  <text x="454" y="118" fill="#087BFA" font-family="Arial Black, Arial, sans-serif" font-size="96" font-weight="900" letter-spacing="-8">4</text>
+  <text x="234" y="166" fill="#090C10" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="18">DIGITAL</text>
+</svg>

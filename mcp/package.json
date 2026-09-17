@@ -33,7 +33,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/domward2/refexists.git",
+    "url": "git+https://github.com/DSL4-Digital/RefExists.git",
     "directory": "mcp"
   },
   "homepage": "https://refexists.dsl4.com",

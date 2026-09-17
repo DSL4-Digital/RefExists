@@ -78,4 +78,4 @@ npx wrangler deploy       # assets-only Cloudflare Worker; see RUNBOOK.md
 - [VERIFICATION.md](VERIFICATION.md) — evidence the live deployment works
 - [RUNBOOK.md](RUNBOOK.md) — operate, deploy, roll back, teardown
 
-MIT licensed. Built on free public scholarly infrastructure; not affiliated with any registry.
+MIT licensed. Open source on [GitHub](https://github.com/DSL4-Digital/RefExists). Built on free public scholarly infrastructure; not affiliated with any registry.

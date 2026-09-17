@@ -391,29 +391,42 @@ h1 em { font-style: italic; color: var(--oxblood); }
 }
 .wordmark-foot { font-weight: 900; color: var(--ink); }
 
-/* studio credit */
-.vg-credit {
+/* studio & engineering credits */
+.colophon-credits {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+  margin: 30px auto 0;
+  padding-bottom: 40px;
+}
+.credit-badge {
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 9px;
   text-align: center;
-  margin: 30px auto 0;
-  padding-bottom: 40px;
   text-decoration: none;
   opacity: .55;
   transition: opacity .2s ease;
 }
-.vg-credit:hover { opacity: .9; }
-.vg-logo { height: 20px; width: auto; display: block; }
-.vg-tag {
+.credit-badge:hover { opacity: .9; }
+.credit-logo { height: 20px; width: auto; display: block; }
+.credit-role {
   text-transform: uppercase;
   letter-spacing: .14em;
   font-size: 11px;
   font-family: var(--mono);
   color: var(--ink-soft);
+  white-space: nowrap;
 }
-@media (max-width: 600px) { .vg-credit { margin-top: 40px; } }
+@media (max-width: 600px) {
+  .colophon-credits {
+    flex-direction: column;
+    gap: 28px;
+    margin-top: 40px;
+  }
+}
 
 /* ---------------- responsive ---------------- */
 

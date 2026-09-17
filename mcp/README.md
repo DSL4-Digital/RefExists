@@ -45,7 +45,7 @@ anywhere but the six public registries, exactly like the website.
 Requires Node ≥ 18.
 
 ```bash
-git clone https://github.com/domward2/refexists
+git clone https://github.com/DSL4-Digital/RefExists
 cd refexists/mcp
 npm install
 ```
@@ -75,4 +75,4 @@ these references" or instruct it to self-check citations before answering.
   pool, OpenAlex per-IP budget, PubMed keyless tier). Very large bibliographies may hit a
   registry's rate limit — the engine retries and reports `error` (retry), never a false
   "not found".
-- MIT licensed. Part of [RefExists](https://github.com/domward2/refexists).
+- MIT licensed. Part of [RefExists](https://github.com/DSL4-Digital/RefExists).

@@ -97,7 +97,7 @@ some require a flair or a "I made this" disclosure.
 > recent/non-English work are under-indexed, so it says "not indexed," never
 > "fabricated," when it can't be sure.
 >
-> Live: https://refexists.dsl4.com · Source (MIT): https://github.com/domward2/refexists
+> Live: https://refexists.dsl4.com · Source (MIT): https://github.com/DSL4-Digital/RefExists
 >
 > It is *not* the first citation checker and I'm not claiming it catches everything —
 > would genuinely like to know where it fails on your references.
