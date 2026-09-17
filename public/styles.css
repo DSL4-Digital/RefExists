@@ -411,7 +411,9 @@ h1 em { font-style: italic; color: var(--oxblood); }
   transition: opacity .2s ease;
 }
 .credit-badge:hover { opacity: .9; }
-.credit-logo { height: 20px; width: auto; display: block; }
+.credit-logo { display: block; width: auto; object-fit: contain; }
+.vg-logo { height: 19px; }
+.dsl4-logo { height: 25px; }
 .credit-role {
   text-transform: uppercase;
   letter-spacing: .14em;
